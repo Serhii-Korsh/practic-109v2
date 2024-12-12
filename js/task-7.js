@@ -26,3 +26,4 @@ increaseBtn.addEventListener('click', () => {
     box.style.width = `${width}px`;
     box.style.height = `${width}px`;
 })
+
